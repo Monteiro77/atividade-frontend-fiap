@@ -1,0 +1,20 @@
+article{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+
+.article__tittle{
+    font-size: 1.3rem;
+}
+.article__img{
+    width: 30%;
+}
+
+.image__container{
+    width: 100%;
+
+}
